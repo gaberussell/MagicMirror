@@ -1,5 +1,7 @@
 # Various Node ignoramuses.
 
+nohup.out
+
 logs
 *.log
 npm-debug.log*
